@@ -5,9 +5,9 @@ Enhanced Deep Residual Single Image Super Resolution (EDSR) developed using PyTo
 ## Original (320x320)
 ![Original](./images/0001.png)
 
-## Upsampled using cv2 (Linear Interpolation)
+## Upsampled (640x640) using cv2 (Linear Interpolation)
 ![Upsampled using cv2](./images/CV2.jpg)
 
-## EDSRx2
+## EDSRx2 (640x640)
 ![EDSRx2](./images/upscaled_image.jpg)
 
