@@ -11,5 +11,5 @@ Enhanced Deep Residual Single Image Super Resolution (EDSR) developed using PyTo
 ## EDSRx2 (640x640)
 ![EDSRx2](./images/upscaled_image.jpg)
 
-# Kaggle Dataset lik for Div-2k
-[Link](https://www.kaggle.com/datasets/sharansmenon/div2k)
+# Kaggle Dataset link for Div-2k
+[https://www.kaggle.com/datasets/sharansmenon/div2k](https://www.kaggle.com/datasets/sharansmenon/div2k)
